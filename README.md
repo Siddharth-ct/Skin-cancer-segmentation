@@ -38,7 +38,7 @@ The following images are Test set image, Label image, and image predicted by the
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Train Image 1
 
 <img src="Images/label1.png" width="300px"></img>&emsp;&emsp;&emsp;<img src="Images/pred 1.png" width="300px"></img>
-<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Label Image 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Predicted Image 1</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Label Image 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Predicted Image 1</p><br><br>
 
 <img src="Images/train2.png" width="300px"></img><br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Train Image 2
