@@ -34,11 +34,18 @@ We can see that accuracy is quite good. The model was trained for 50 epochs. Wit
 ## Model predictions
 The following images are Test set image, Label image, and image predicted by the model.
 
-<img src="Images/train1.png" width="300px">   <img src="Images/label1.png" width="300px">   <img src="Images/pred 1.png" width="300px">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Test image 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Label Image 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Predicted Image 1
+<img src="Images/train1.png" width="300px"></img><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Train Image 1
 
-<img src="Images/train2.png" width="300px">   <img src="Images/label2.png" width="300px">   <img src="Images/pred2.png" width="300px">
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Test image 2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Label Image 2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Predicted Image 2
+<img src="Images/label1.png" width="300px"></img>&emsp;&emsp;&emsp;<img src="Images/pred 1.png" width="300px"></img>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Label Image 1&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Predicted Image 1</p>
+
+<img src="Images/train2.png" width="300px"></img><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Train Image 2
+
+<img src="Images/label2.png" width="300px"></img>&emsp;&emsp;&emsp;<img src="Images/pred2.png" width="300px"></img>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Label Image 2&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Predicted Image 2</p>
+
 
 
 
