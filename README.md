@@ -52,12 +52,12 @@ The following images are Test set image, Label image, and image predicted by the
 ## The following additional plots and charts were made to understand the model beter.
 <b>Loss vs Epochs</b>
 
-![github-small](Images/loss_vs_epoch.png)
+<img src="Images/loss_vs_epoch.png">
 
 
 <b>Dice coefficient vs Epochs</b>
 
-![github-small](Images/dice_vs_epoch.png)<br><br>
+<img src="Images/dice_vs_epoch.png"><br><br>
 
 
 <b>Note:</b> Go through the Jupyter Notebook. Each step has been explained briefly.
