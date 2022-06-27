@@ -61,3 +61,5 @@ The following images are Test set image, Label image, and image predicted by the
 
 
 <b>Note:</b> Go through the Jupyter Notebook. Each step has been explained briefly.
+
+
